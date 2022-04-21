@@ -1,0 +1,89 @@
+{
+	"pages": [{
+			"path": "pages/home/home"
+		},
+		{
+			"path": "pages/my/my"
+		},
+		{
+			"path": "pages/mv/mv"
+		},
+		{
+			"path": "pages/square/square"
+		}
+	],
+	"subPackages": [{
+		"root": "subpkg",
+		"pages": [{
+				"path": "search/search"
+			},
+			{
+				"path": "video/video",
+				"style": {
+					"navigationBarTextStyle": "white",
+					"enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#000"
+				}
+			},
+			{
+				"path": "playmusic/playmusic",
+				"style": {
+					"navigationBarTitleText": "歌曲信息",
+					"navigationBarBackgroundColor": "#999999"
+				}
+			},
+			{
+				"path": "playlist/playlist",
+				"style": {
+					"navigationBarTitleText": "歌单",
+					"navigationBarBackgroundColor": "#838383",
+					"navigationBarTextStyle": "white"
+				}
+			}, {
+				"path": "login/login",
+				"style": {
+					"navigationBarTitleText": "",
+					"enablePullDownRefresh": false
+				}
+			}
+		]
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "小汪音乐",
+		"navigationBarBackgroundColor": "#f6f6f6",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"selectedColor": "#24e0a3",
+		"color": "#535353",
+		"list": [{
+				"pagePath": "pages/home/home",
+				"text": "首页",
+				"iconPath": "static/home1.png",
+				"selectedIconPath": "static/home1-active.png"
+			},
+			{
+				"pagePath": "pages/mv/mv",
+				"text": "MV",
+				"iconPath": "static/mv.png",
+				"selectedIconPath": "static/mv-active.png"
+			},
+			{
+				"pagePath": "pages/square/square",
+				"text": "广场",
+				"iconPath": "static/square.png",
+				"selectedIconPath": "static/square-active.png"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"text": "我的",
+				"iconPath": "static/my1.png",
+				"selectedIconPath": "static/my1-active.png"
+			}
+		]
+	}
+}
