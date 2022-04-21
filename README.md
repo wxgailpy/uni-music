@@ -1,7 +1,7 @@
 # vue-echarts
 
 #### 介绍
-首页[项目截图](https://gitee.com/you-dont-have-to-play-around/uni-music/raw/master/static/%E6%95%88%E6%9E%9C%E5%9B%BE/%E9%A6%96%E9%A1%B5.PNG "屏幕截图.png")
+首页[项目截图](https://github.com/wxgailpy/uni-music/raw/master/static/%E6%95%88%E6%9E%9C%E5%9B%BE/%E9%A6%96%E9%A1%B5.PNG "屏幕截图.png")
 我的[项目截图](https://gitee.com/you-dont-have-to-play-around/uni-music/raw/master/static/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%88%91%E7%9A%84.PNG "屏幕截图.png")
 歌单详情[项目截图](https://gitee.com/you-dont-have-to-play-around/uni-music/raw/master/static/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%AD%8C%E5%8D%95%E8%AF%A6%E6%83%85.PNG "屏幕截图.png")
 歌曲播放[项目截图](https://gitee.com/you-dont-have-to-play-around/uni-music/raw/master/static/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%AD%8C%E6%9B%B2%E6%92%AD%E6%94%BE.PNG "屏幕截图.png")
